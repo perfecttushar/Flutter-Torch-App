@@ -1,4 +1,4 @@
-# torch
+# Torch App
 
 A new Flutter project.
 
